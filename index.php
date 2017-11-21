@@ -2,5 +2,5 @@
 
 echo 'hello boy ';
 echo 'add index';
-echo 'three';
+echo 'a';
 ?>
